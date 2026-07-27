@@ -1,9 +1,9 @@
-## Hi there, I'm Fanta Bamba 👋
+## Hello, I'm Fanta Bamba 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Qualitative & Quantitative Analysis];[Over 5 years of experience with Analysis & Evaluation]" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Qualitative+and+Quantitative+Analysis;Over+5+Years+of+Analysis+and+Evaluation+Experience" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
@@ -17,18 +17,15 @@ I'm a data analyst passionate about using data to improve efficiency. I enjoy tr
 
 My focus is on extracting insights that drive efficiency, communicating complex findings to nontechnical stakeholders, and creating models that help businesses plan for the future. I am motivated by the tangible impact that efficient, well-executed data analysis can have on an organization's outcomes.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://Bfanta04.github.io/)
-      
 ## 🔭 What I'm Currently Working On 
  
-- **Project A:** [Creating an interactive dashboard in Tableau.]
+- **Project A:** Creating an interactive dashboard in Tableau.
 
 ## 🌱 Currently Learning 
 
-- [Expanding Data Visualization tools with Tableau.]
+- Expanding Data Visualization tools with Tableau.
 
-## 🛠️ Technical Skillset
+## 🛠️ Technical Skillsets/Tools
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
@@ -38,9 +35,9 @@ My focus is on extracting insights that drive efficiency, communicating complex 
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive-Analysis-Expert?style=flat&logo=Python&logoColor=Navy%20Blue&labelColor=light%20grey&color=fedcba" alt=" Predictive Analysis Badge"
-  <img src="https://https://img.shields.io/badge/Seaborn-Expert-217346?style=flat&logo=Seaborn&logoColor=Navy%20Blue&labelColor=light%20grey&color=rgba" alt=" Seaborn"
-  <img src="https://img.shields.io/badge/Matplotlib-Expert-4479A1?style=flat&logo=Matplotlib&logoColor=Navy%20Blue&labelColor=light%20grey&color=8A2BE2" alt=" Matplotlib"
+  <img src="https://img.shields.io/badge/Predictive%20Analysis-Expert-4479A1?style=flat&logo=Python&logoColor=Navy%20Blue&labelColor=light%20grey&color=fedcba" alt=" Predictive Analysis Badge">
+  <img src="https://img.shields.io/badge/Seaborn-Expert-217346?style=flat&Color=light%20grey&color=rgba" alt=" Seaborn">
+  <img src="https://img.shields.io/badge/Matplotlib-Expert-4479A1?style=flat&logo=Matplotlib&logoColor=Navy%20Blue&labelColor=light%20grey&color=8A2BE2" alt=" Matplotlib">
 </p>
 
 #### Programming & Automation
@@ -53,5 +50,5 @@ My focus is on extracting insights that drive efficiency, communicating complex 
   <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
   <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
   <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-   <img src="https://img.shields.io/badge/Hypothesis%20Testing-Expert-96CEB4?style=flat" alt="Hypothesis Skill Badge">
+   <img src="https://img.shields.io/badge/Hypothesis%20Testing-Expert-217346?style=flat" alt="Hypothesis Skill Badge">
 </p>
